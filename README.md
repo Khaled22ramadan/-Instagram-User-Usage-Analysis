@@ -192,8 +192,8 @@ This dashboard focuses on platform engagement and advertising performance.
 Instagram-User-Usage-Analysis/
 │
 ├── Data/
-│   ├── Raw Dataset.csv
-│   └── Cleaned Dataset.csv
+│   ├── User Data.csv
+│   └── Usage Data.csv
 │
 ├── Dashboard/
 │   └── Instagram_User_Analysis.pbix
