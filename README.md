@@ -176,13 +176,13 @@ This dashboard focuses on platform engagement and advertising performance.
 
 ## User Profile & Demographics
 
-> *(Add a screenshot of your first dashboard here.)*
+> *(<img width="1177" height="726" alt="user profile_Demogarphics" src="https://github.com/user-attachments/assets/9e025882-3455-4dbf-9f25-75fcf1d085f7" />)*
 
 ---
 
 ## Performance Analysis
 
-> *(Add a screenshot of your second dashboard here.)*
+> *(<img width="1152" height="712" alt="Performance Analysis" src="https://github.com/user-attachments/assets/bc4bfa26-159d-438b-898f-0115f7280f48" />)*
 
 ---
 
