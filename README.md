@@ -42,6 +42,19 @@ Social media platforms collect massive amounts of user data every day. The objec
 * Business Intelligence
 
 ---
+# 📷 Dashboard Preview
+
+## User Profile & Demographics
+
+> *(<img width="1177" height="726" alt="user profile_Demogarphics" src="https://github.com/user-attachments/assets/9e025882-3455-4dbf-9f25-75fcf1d085f7" />)*
+
+---
+
+## Performance Analysis
+
+> *(<img width="1152" height="712" alt="Performance Analysis" src="https://github.com/user-attachments/assets/bc4bfa26-159d-438b-898f-0115f7280f48" />)*
+
+---
 
 # 📂 Dashboard Pages
 
@@ -172,28 +185,11 @@ This dashboard focuses on platform engagement and advertising performance.
 
 ---
 
-# 📷 Dashboard Preview
-
-## User Profile & Demographics
-
-> *(<img width="1177" height="726" alt="user profile_Demogarphics" src="https://github.com/user-attachments/assets/9e025882-3455-4dbf-9f25-75fcf1d085f7" />)*
-
----
-
-## Performance Analysis
-
-> *(<img width="1152" height="712" alt="Performance Analysis" src="https://github.com/user-attachments/assets/bc4bfa26-159d-438b-898f-0115f7280f48" />)*
-
----
 
 # 📁 Repository Structure
 
 ```text
 Instagram-User-Usage-Analysis/
-│
-├── Data/
-│   ├── User Data samplw.csv
-│   └── Usage Data sample.csv
 │
 ├── Dashboard/
 │   └── Instagram_User_Analysis.pbix
